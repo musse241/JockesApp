@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rostaren</string>
+
+    <string name="buttonCopy" translatable="true">Copy</string>
+    <string name="buttonStart" translatable="true">Start</string>
+    <string name="buttonRestart" translatable="true">Restart</string>
+
+    <string-array name="randWordsArrayOne">
+        <item>orangepeeling</item>
+        <item>socksniffing</item>
+        <item>idiotic</item>
+        <item>cucumbersmelling</item>
+        <item>roofer</item>
+        <item>toiletcleaning</item>
+        <item>canopenening</item>
+    </string-array>
+    <string-array name="randWordsArrayTwo">
+        <item>lefthanded</item>
+        <item>cheap</item>
+        <item>slow</item>
+        <item>earpoking</item>
+        <item>nosepicking</item>
+        <item>noob</item>
+    </string-array>
+    <string-array name="randWordsArrayThree">
+        <item>impatient</item>
+        <item>irresponsible</item>
+        <item>phoneanswering</item>
+        <item>handstanding</item>
+        <item>anoying</item>
+        <item>tough</item>
+
+    </string-array>
+    <string-array name="randWordsArrayFour">
+        <item>buttonpressing</item>
+        <item>elbowlicking</item>
+        <item>bananapeeling</item>
+        <item>doorclosing</item>
+    </string-array>
+    <string-array name="randWordsArrayFive">
+        <item>toenailcutting</item>
+        <item>grasscutting</item>
+        <item>unpleasant</item>
+        <item>towelfoldning</item>
+        <item>hedgehogpetting</item>
+    </string-array>
+    <string-array name="randWordsArraySix">
+        <item>snailowning</item>
+        <item>slow</item>
+        <item>fierce</item>
+        <item>snorky</item>
+        <item>pleb</item>
+    </string-array>
+</resources>

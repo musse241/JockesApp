@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rostaren</string>
+
+    <string name="buttonCopy" translatable="true">Kopiera</string>
+    <string name="buttonStart" translatable="true">Start</string>
+    <string name="buttonRestart" translatable="true">Börja om</string>
+
+    <string-array name="randWordsArrayOne">
+        <item>apelsinskalande</item>
+        <item>strumpsnifande</item>
+        <item>muppiga</item>
+        <item>gurkluktande</item>
+        <item>taklägande</item>
+        <item>toalettdykande</item>
+        <item>burköppnare</item>
+    </string-array>
+    <string-array name="randWordsArrayTwo">
+        <item>vänsterhänta</item>
+        <item>snåla</item>
+        <item>tröga</item>
+        <item>öronpetande</item>
+        <item>näspetande</item>
+        <item>noobiga</item>
+    </string-array>
+    <string-array name="randWordsArrayThree">
+        <item>otåliga</item>
+        <item>oansvariga</item>
+        <item>telefonsvarande</item>
+        <item>handstående</item>
+        <item>osköna</item>
+        <item>slöa</item>
+        <item>klumpiga</item>
+
+    </string-array>
+    <string-array name="randWordsArrayFour">
+        <item>knappklickande</item>
+        <item>armbågslickande</item>
+        <item>bananskalande</item>
+        <item>dörrstängande</item>
+        <item>slöfock</item>
+        <item>jobbiga</item>
+    </string-array>
+    <string-array name="randWordsArrayFive">
+        <item>tånagelklippande</item>
+        <item>gräsklippande</item>
+        <item>otrevliga</item>
+        <item>handuksvikande</item>
+        <item>igelkottsklappande</item>
+        <item>snoriga</item>
+    </string-array>
+    <string-array name="randWordsArraySix">
+        <item>snigelägande</item>
+        <item>långsama</item>
+        <item>obehaliga</item>
+        <item>otrevliga</item>
+        <item>snorkiga</item>
+    </string-array>
+</resources>
